@@ -1,0 +1,14 @@
+{
+  "name": "pods4me",
+  "description": "Queue podcast episodes from Cursor into your private pods4.me RSS feed, then listen in Pocket Casts, Apple Podcasts, Overcast or any player that accepts private RSS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chris Davies",
+    "email": "help@pods4.me"
+  },
+  "homepage": "https://pods4.me",
+  "repository": "https://github.com/cdavies7/pods4me-plugin",
+  "license": "MIT",
+  "keywords": ["podcast", "podcasts", "rss", "listening", "queue", "mcp", "pocket-casts", "apple-podcasts", "overcast"],
+  "logo": "assets/logo.png"
+}
